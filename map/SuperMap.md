@@ -1,0 +1,3 @@
+<h2>windows激活替换路径:C:\Program Files\Common Files\SuperMap\License</h2>
+<h2>liunx激活替换路径:/opt/SuperMap/License/</h2>
+注:liunx激活可以通过机器名直接激活
