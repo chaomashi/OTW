@@ -9,3 +9,5 @@
 
      @example 
      var MAX_PEOPLE_SIZE = 10;
+**3、console 添加自定义变量
+      `` 不是'' console.info(`${value}`)
