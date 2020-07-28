@@ -1,0 +1,5 @@
+**下载版本**
+Windows x86-64 executable installer  2.7.8以上自带pip 安装勾选add path 
+**gdal** 安装
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
+GDAL‑3.1.2‑cp39‑cp39‑win_amd64.whl  39为python版本 amd 64是64位
