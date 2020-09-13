@@ -48,3 +48,15 @@ function funaa (name:string):string;
 function funaa (age:any):any{
     return '';
 }
+
+    // 类修饰符
+    pubilc: 公有 类里面 子类 类外面都可以访问
+    protected: 保护类型 在类里面、子类里面可以访问 在类外部没法访问
+    private 私有 在类里面可以访问 子类和类外部都无法访问
+    
+    // 泛型: 可以支持不特定的数据类型 要求:传入的参数和返回的参数一致
+    
+    //
+    function getData<T>(value:T):T{
+        return  value;
+    }
