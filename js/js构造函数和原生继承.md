@@ -1,4 +1,6 @@
 # js 的构造函数和原型链新增方法
+
+    @example
     function Person(){
         this.name = 'zhangsan';
         this.age = 20;
